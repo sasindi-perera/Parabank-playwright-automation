@@ -1,26 +1,32 @@
-ParaBank Web Automation Testing
 
-About the Project
+# ParaBank Web Automation Testing
+
+## 📌 About the Project
 
 This is an individual web automation testing project developed to practice and improve automation testing skills using the ParaBank demo banking application.
+
 The project focuses on automating important banking features and verifying their functionality.
 
-Technologies Used
+## 🛠️ Technologies Used
 
-Java
-Playwright
-JUnit 5
-Maven
-IntelliJ IDEA
+- Java
+- Playwright
+- JUnit 5
+- Maven
+- IntelliJ IDEA
 
-Test Coverage
+## 🧪 Test Coverage
 
-Verify application launch
-Valid login
-Invalid login
-Accounts Overview
-Fund Transfer
-Bill Payment
+The following features are covered by automation tests:
 
-Application Under Test
-https://parabank.parasoft.com/parabank/index.htm
+- Verify application launch
+- Valid login
+- Invalid login
+- Accounts Overview
+- Fund Transfer
+- Bill Payment
+
+## 🌐 Application Under Test
+
+[ParaBank Demo Application](https://parabank.parasoft.com/parabank/index.htm)
+
