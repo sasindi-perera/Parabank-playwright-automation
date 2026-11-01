@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="06bcb6e7-8d30-42b7-936d-2e9a7e2aa4a5" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="3IVvsleP2Z5y8FV06lYyPgjZI6y" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "JUnit.BillPayTest.executor": "Run",
+    "JUnit.LoginTest.billPay.executor": "Run",
+    "JUnit.LoginTest.executor": "Run",
+    "JUnit.LoginTest.invalidLogin.executor": "Run",
+    "JUnit.LoginTest.openParaBank.executor": "Run",
+    "JUnit.LoginTest.transferFunds.executor": "Run",
+    "JUnit.LoginTest.validLogin.executor": "Run",
+    "JUnit.LoginTest.verifyAccountsOverview.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Admin/Desktop/ParaBank-Automation",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
+  }
+}]]></component>
+  <component name="RunManager" selected="JUnit.LoginTest">
+    <configuration name="LoginTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="parabank-automation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.parabank.automation.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.parabank.automation.tests" />
+      <option name="MAIN_CLASS_NAME" value="com.parabank.automation.tests.LoginTest" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginTest.billPay" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ParaBank-Automation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.parabank.automation.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.parabank.automation.tests" />
+      <option name="MAIN_CLASS_NAME" value="com.parabank.automation.tests.LoginTest" />
+      <option name="METHOD_NAME" value="billPay" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginTest.invalidLogin" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ParaBank-Automation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.parabank.automation.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.parabank.automation.tests" />
+      <option name="MAIN_CLASS_NAME" value="com.parabank.automation.tests.LoginTest" />
+      <option name="METHOD_NAME" value="invalidLogin" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginTest.transferFunds" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ParaBank-Automation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.parabank.automation.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.parabank.automation.tests" />
+      <option name="MAIN_CLASS_NAME" value="com.parabank.automation.tests.LoginTest" />
+      <option name="METHOD_NAME" value="transferFunds" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginTest.verifyAccountsOverview" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ParaBank-Automation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.parabank.automation.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.parabank.automation.tests" />
+      <option name="MAIN_CLASS_NAME" value="com.parabank.automation.tests.LoginTest" />
+      <option name="METHOD_NAME" value="verifyAccountsOverview" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.LoginTest" />
+        <item itemvalue="JUnit.LoginTest.billPay" />
+        <item itemvalue="JUnit.LoginTest.transferFunds" />
+        <item itemvalue="JUnit.LoginTest.verifyAccountsOverview" />
+        <item itemvalue="JUnit.LoginTest.invalidLogin" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-2df11533d9fe-intellij.indexing.shared.core-IU-262.11879.100" />
+        <option value="bundled-js-predefined-d6986cc7102b-4abd2a77f808-JavaScript-IU-262.11879.100" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="06bcb6e7-8d30-42b7-936d-2e9a7e2aa4a5" name="Changes" comment="" />
+      <created>1787862764915</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1787862764915</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
